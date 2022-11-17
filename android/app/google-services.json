@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "437532804291",
+    "project_id": "netfilx-project",
+    "storage_bucket": "netfilx-project.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:437532804291:android:b029650e3c03eae23b4e76",
+        "android_client_info": {
+          "package_name": "com.example.netflix_project_test"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "437532804291-l3khqu6ked8o1bqcqihv58tne9q13ne5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.netflix_project_test",
+            "certificate_hash": "7f84d5d8998de99d1414d28b413b40f6c6452bc0"
+          }
+        },
+        {
+          "client_id": "437532804291-rok34diqi6h9pgnqjcoal6c842douj9k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBMfbrOC9tKheZj4-PZqNSVcDUimZS34bs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "437532804291-rok34diqi6h9pgnqjcoal6c842douj9k.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "437532804291-lbupj1m4pm63jp7g7l5bf2eqrn2jtpba.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.netflixProjectTest"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
